@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/iOS-Developer-orange)](#)
+[![](https://img.shields.io/badge/Platforms-iPhone&iPad-blue)](#)
+[![](https://img.shields.io/badge/Language-Swift-brightgreen)](#)
+[![](https://img.shields.io/badge/Framework-SwiftUI-lightblue)](#)
 # Bio
 
  🍎🧑‍🎓 I discovered the development world thanks to the participation in the Apple Foundation Program in partnership with University of Naples “L’Orientale”. I have a humanistic background with a degree in Languages, Literatures and Translation which I strongly believe can be an added value to my recent skills developed at the Apple Developer Academy of Naples. In fact, I find myself at ease in multicultural environments and I love meeting new people and discovering new things about their cultures and languages. 
